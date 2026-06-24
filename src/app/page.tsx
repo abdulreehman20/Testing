@@ -1,5 +1,5 @@
-import { FAQ } from "@/components/landing/faq";
 import { CTA } from "@/components/landing/cta";
+import { FAQ } from "@/components/landing/faq";
 import { Hero } from "@/components/landing/hero";
 import { Navbar } from "@/components/landing/navbar";
 import { Footer } from "@/components/landing/footer";
